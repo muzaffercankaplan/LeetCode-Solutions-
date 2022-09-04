@@ -4,6 +4,7 @@
 
 | Number | Question                  | Solutions                                                                                                            | Difficulty |
 | ------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 1      | Two Sum                   | [js] (https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/1.Two%20Sum.js)                             | Easy       |
 | 35     | Search inset position     | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/35.Search-Inset-Position.js)                 | Easy       |
 | 189    | Rotate Array              | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/189.%20Rotate%20Array.js)                    | Medium     |
 | 278    | First Bad Version         | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/278.First-Bad-Version.js)                    | Easy       |
