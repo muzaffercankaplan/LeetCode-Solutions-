@@ -12,6 +12,8 @@
 | 278    | First Bad Version                  | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/278.First-Bad-Version.js)                                   | Easy       |
 | 283    | Move Zeroes                        | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/283.%20Move%20Zeroes.js)                                    | Easy       |
 | 704    | Binary Search                      | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/704.BinarySearch.js)                                        | Easy       |
+| 724    | Find Pivot Index                   | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/724.%20Find%20Pivot%20Index.js)                             | Easy       |
 | 977    | Squares of a Sorted Array          | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/977.%20Squares%20of%20a%20Sorted%20Array.js)                | Easy       |
+| 1480   | Running Sum of 1d Array            | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/1480.%20Running%20Sum%20of%201d%20Array.js)                 | Easy       |
 
 ---
