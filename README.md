@@ -33,5 +33,6 @@
 | 876    | Middle of the Linked List                      | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0801-900/876.%20Middle%20of%20the%20Linked%20List.js)                         | Easy       |
 | 977    | Squares of a Sorted Array                      | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0900-1001/977.%20Squares%20of%20a%20Sorted%20Array.js)                        | Easy       |
 | 1480   | Running Sum of 1d Array                        | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/1401-1500/1480.%20Running%20Sum%20of%201d%20Array.js)                         | Easy       |
+| 1672   | Richest Customer Wealth                        | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/1501%2B/1672.%20Richest%20Customer%20Wealth.js)                               | Easy       |
 
 ---
