@@ -1,10 +1,10 @@
 # LeetCode-Solutions
 
-## Solved Question -- 29 --
+## Solved Question -- 32 --
 
 <ul>
-  <li>Easy : 20</li>
-  <li>Medimum : 7</li>
+  <li>Easy : 22</li>
+  <li>Medimum : 8</li>
   <li>Hard : 2</li>
 </ul>
 
@@ -22,7 +22,8 @@
 | 35     | Search inset position                          | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0001-100/035.Search-Inset-Position.js)                                         | Easy       |
 | 88     | Merge Sorted Array                             | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0001-100/088.%20Merge%20Sorted%20Array.js)                                     | Easy       |
 | 116    | Populating Next Right Pointers in Each NodePz  | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0101-200/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.js) | Medium     |
-| 142    | Linked List Cycle II                           | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/tree/main/Medimum/0101-200)                                                                   | Medium     |
+| 121    | Best Time to Buy and Sell Stock                | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0101-200/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)                | Easy       |
+| 142    | Linked List Cycle II                           | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0101-200/142.%20Linked%20List%20Cycle%20II.js)                              | Medium     |
 | 167    | Two Sum II - Input Array Is Sorted             | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0101-200/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.js)        | Medium     |
 | 189    | Rotate Array                                   | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0101-200/189.%20Rotate%20Array.js)                                          | Medium     |
 | 202    | Happy Number                                   | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0201-300/202.%20Happy%20Number.js)                                             | Easy       |
@@ -32,6 +33,8 @@
 | 344    | Reverse String                                 | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0301-400/344.%20Reverse%20String.js)                                           | Easy       |
 | 383    | Ransom Note                                    | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0301-400/383.%20Ransom%20Note.js)                                              | Easy       |
 | 392    | Is Subsequence                                 | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0301-400/392.%20Is%20Subsequence.js)                                           | Easy       |
+| 409    | Longest Palindrome                             | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0401-500/409.%20Longest%20Palindrome.js)                                       | Easy       |
+| 542    | 01 Matrix                                      | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0501-600/542.%2001%20Matrix.js)                                             | Medium     |
 | 557    | Reverse Words in a String III                  | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0501-600/557.%20Reverse%20Words%20in%20a%20String%20III.js)                    | Easy       |
 | 567    | Permutation in String                          | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0501-600/567.%20Permutation%20in%20String.js)                               | Medium     |
 | 704    | Binary Search                                  | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0701-800/704.BinarySearch.js)                                                  | Easy       |
