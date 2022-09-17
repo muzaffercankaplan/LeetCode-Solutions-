@@ -1,10 +1,10 @@
 # LeetCode-Solutions
 
-## Solved Question -- 32 --
+## Solved Question -- 35 --
 
 <ul>
-  <li>Easy : 22</li>
-  <li>Medimum : 8</li>
+  <li>Easy : 24</li>
+  <li>Medimum : 9</li>
   <li>Hard : 2</li>
 </ul>
 
@@ -28,18 +28,21 @@
 | 189    | Rotate Array                                   | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0101-200/189.%20Rotate%20Array.js)                                          | Medium     |
 | 202    | Happy Number                                   | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0201-300/202.%20Happy%20Number.js)                                             | Easy       |
 | 206    | Reverse Linked List                            | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0201-300/206.%20Reverse%20Linked%20List.js)                                    | Easy       |
+| 231    | Power of Two                                   | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0201-300/231.%20Power%20of%20Two.js)                                           | Easy       |
 | 278    | First Bad Version                              | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0201-300/278.First-Bad-Version.js)                                             | Easy       |
 | 283    | Move Zeroes                                    | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0201-300/283.%20Move%20Zeroes.js)                                              | Easy       |
 | 344    | Reverse String                                 | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0301-400/344.%20Reverse%20String.js)                                           | Easy       |
 | 383    | Ransom Note                                    | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0301-400/383.%20Ransom%20Note.js)                                              | Easy       |
 | 392    | Is Subsequence                                 | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0301-400/392.%20Is%20Subsequence.js)                                           | Easy       |
 | 409    | Longest Palindrome                             | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0401-500/409.%20Longest%20Palindrome.js)                                       | Easy       |
+| 509    | Fibonacci Number                               | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0501-600/509.%20Fibonacci%20Number.js)                                         | Easy       |
 | 542    | 01 Matrix                                      | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0501-600/542.%2001%20Matrix.js)                                             | Medium     |
 | 557    | Reverse Words in a String III                  | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0501-600/557.%20Reverse%20Words%20in%20a%20String%20III.js)                    | Easy       |
 | 567    | Permutation in String                          | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0501-600/567.%20Permutation%20in%20String.js)                               | Medium     |
 | 704    | Binary Search                                  | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0701-800/704.BinarySearch.js)                                                  | Easy       |
 | 724    | Find Pivot Index                               | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0701-800/724.%20Find%20Pivot%20Index.js)                                       | Easy       |
 | 876    | Middle of the Linked List                      | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0801-900/876.%20Middle%20of%20the%20Linked%20List.js)                          | Easy       |
+| 948    | Bag of Tokens                                  | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Medimum/0900-1001/948.%20Bag%20of%20Tokens.js)                                      | Medium     |
 | 977    | Squares of a Sorted Array                      | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/0900-1001/977.%20Squares%20of%20a%20Sorted%20Array.js)                         | Easy       |
 | 1089   | Duplicate Zeros                                | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/1001-1100/1089.%20Duplicate%20Zeros.js)                                        | Easy       |
 | 1480   | Running Sum of 1d Array                        | [js](https://github.com/muzaffercankaplan/LeetCode-Solutions-/blob/main/Easy/1401-1500/1480.%20Running%20Sum%20of%201d%20Array.js)                          | Easy       |
